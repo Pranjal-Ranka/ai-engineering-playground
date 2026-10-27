@@ -1,0 +1,13 @@
+{
+  "source_language": "en",
+  "target_language": "de",
+  "terms": {
+    "Save (UI action)": "Speichern",
+    "Cancel (discard an action)": "Abbrechen",
+    "settings": "Einstellungen"
+  },
+  "notes": [
+    "Use concise, natural German UI wording.",
+    "This glossary is illustrative and applies only to the fictional demo."
+  ]
+}
