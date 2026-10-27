@@ -1,0 +1,8 @@
+{
+  "button.save": "Save",
+  "button.cancel": "Cancel",
+  "settings.autoSave": "Automatically save changes",
+  "notification.savedCount": "Saved {count} files successfully.",
+  "error.connection": "Could not connect to {service}. Try again.",
+  "dialog.unsavedChanges": "You have unsaved changes. Leave this page anyway?"
+}

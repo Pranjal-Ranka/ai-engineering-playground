@@ -1,0 +1,8 @@
+{
+  "button.save": "Speichern",
+  "button.cancel": "Stornieren",
+  "settings.autoSave": "Änderungen automatisch speichern",
+  "notification.savedCount": "{count} Dateien erfolgreich gespeichert.",
+  "error.connection": "Verbindung zu {server} fehlgeschlagen. Bitte erneut versuchen.",
+  "notification.welcome": "Willkommen!"
+}
